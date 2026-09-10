@@ -13,6 +13,11 @@ LanYun博纳蓝云机场官网地址</br>
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
 `链接注册自动获得试用套餐（此活动官方随时取消）`
+## 优惠码/打折码
+```bash
+lanyun2026
+```
+
 ## 简介
 LanYun博纳蓝云是一家网络加速服务商，主打企业级专线与多地区节点，面向跨境办公、外贸访问、影音娱乐及日常网络加速等场景。支持Windows、macOS、Android和iOS等设备，并提供专属客户端，整体定位偏向稳定、便捷与长期使用。
 ## 优势
