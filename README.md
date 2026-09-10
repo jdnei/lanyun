@@ -43,8 +43,8 @@ LanYun博纳蓝云的优势在于企业级专线、多地区节点和专属客�
 
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/lanyun/blob/main/lanyun/458309284095speed.webp?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/lanyun/blob/main/lanyun/435702348095test.webp?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/lanyun/blob/main/lanyun/4389528309485ana.webp?raw=ture)</br>
