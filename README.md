@@ -1,5 +1,5 @@
 
-# LanYun博纳蓝云机场官方地址(2026年9月21日更新)
+# LanYun博纳蓝云机场官方地址(2026年9月22日更新)
 LanYun博纳蓝云机场官网地址</br>
 最新地址01：[https://lanyun.org](https://to.iix.im/lan02)</br>
 最新地址02：[https://lanyun.xyz](https://lanyun.xyz/#/register?code=PIbzlrX9)</br>
