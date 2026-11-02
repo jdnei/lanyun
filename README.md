@@ -1,10 +1,12 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # LanYun博纳蓝云机场官方地址(2026年11月2日更新)
 LanYun博纳蓝云机场官网地址</br>
 最新地址01：[https://lanyun.org](https://to.iix.im/lan01)</br>
-最新地址02：[https://lanyun.xyz](https://lanyun.xyz/#/register?code=PIbzlrX9)</br>
-官方地址01：[https://蓝云.com](https://xn--9kqq73k.com/#/register?code=PIbzlrX9)</br>
-官方地址02：[https://博纳斯.com](https://xn--9kro04b5is.com/#/register?code=PIbzlrX9)</br>
+最新地址02：[https://lanyun.xyz](https://to.iix.im/lan02)</br>
+官方地址01：[https://蓝云.com](https://to.iix.im/lan03)</br>
+官方地址02：[https://博纳斯.com](https://to.iix.im/lan04)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
