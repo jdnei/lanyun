@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт LanYun VPN (обновлено 6 ноября 2026)
+# Официальный сайт LanYun VPN (обновлено 7 ноября 2026)
 
 Официальный сайт LanYun VPN<br>
 Актуальный адрес 01: [https://lanyun.org](https://to.iix.im/lan01)<br>
