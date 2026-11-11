@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# LanYun博纳蓝云机场官方地址(2026年11月10日更新)
+# LanYun博纳蓝云机场官方地址(2026年11月11日更新)
 LanYun博纳蓝云机场官网地址</br>
 最新地址01：[https://lanyun.org](https://to.iix.im/lan01)</br>
 最新地址02：[https://lanyun.xyz](https://to.iix.im/lan02)</br>
